@@ -4,7 +4,7 @@ services:
     environment:
       - FLASK_ENV=development
     build: .
-    container_name: 'api_doit'
+    container_name: 'api_doitall'
     restart: always
     volumes:
       - .:/app
