@@ -5,6 +5,9 @@ Próximas implementações:
 - Revisão do modelo ER
 - Implementação PostgreSQL
 
+Em andamento:
+- Login com autenticação
+
 Passos para execução:
 - Instalar Docker
 - Instalar docker-compose
